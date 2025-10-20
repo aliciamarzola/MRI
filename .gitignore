@@ -1,0 +1,12 @@
+// ...existing code...
+*.nii.gz
+*.nii
+datasets/
+dataset_*.npz
+*.npy
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+// ...existing code...
